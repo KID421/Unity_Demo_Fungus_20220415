@@ -53,3 +53,11 @@ Update Mode: mergeDefaultDependencies
 The following packages were added:
   com.unity.2d.sprite@1.0.0
   com.unity.ext.nunit@1.0.0
+
+=== Mon Jul 25 13:44:23 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ext.nunit from version 1.0.0 to 1.0.6
