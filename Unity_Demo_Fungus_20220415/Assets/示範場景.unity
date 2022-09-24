@@ -546,17 +546,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: SayDialog
       objectReference: {fileID: 0}
-    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
-      propertyPath: m_Color.b
-      value: 0
+    - target: {fileID: 11431470, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 137
       objectReference: {fileID: 0}
-    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
-      propertyPath: m_Color.g
+    - target: {fileID: 11431470, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_RichText
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
-      propertyPath: m_Color.r
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 22488902, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Pivot.x
@@ -1306,11 +1302,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -61.976315, y: 43.353104}
+  scrollPos: {x: 223.66763, y: -135.45682}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.9100001
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1346,9 +1342,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 119.71967
+    x: 118.62077
     y: 117.78937
-    width: 74.17582
+    width: 74
     height: 40
   tint: {r: 0.7960785, g: 1, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -1439,7 +1435,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 119.6339
     y: 238.67154
-    width: 74.17582
+    width: 74
     height: 40
   tint: {r: 1, g: 0.6, b: 0.6, a: 1}
   useCustomTint: 1
@@ -1482,7 +1478,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 239.21552
     y: 116.103226
-    width: 122.527466
+    width: 122
     height: 40
   tint: {r: 0.4528302, g: 0.11320755, b: 0.25368193, a: 1}
   useCustomTint: 1
@@ -1663,9 +1659,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 240.58606
+    x: 241.68497
     y: 238.61908
-    width: 98.35164
+    width: 98
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
